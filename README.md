@@ -39,19 +39,19 @@ The repository URL is https://github.com/Vasudev-S-Acharya/Ratheesh.git.
 Replace "your-api-key" with your real OpenAI API key. The sed command is used to replace the placeholder API key in the chatbot.py script.
 Users can copy and paste these commands into their terminal to set up and run the "ratheesh" chatbot from your GitHub repository.
 
-Usage
+## Usage
 
 Explain how to use your project. Provide code examples or usage scenarios to help users understand how to interact with your code.
 
-Contributing
+## Contributing
 
 Contributions to this project are welcome! If you'd like to contribute, please follow the guidelines in the "Contributing" section of the README.
 
  MetaMask wallet: 0x2B7D0726068759D7EdFdfAEF6f50469EC6b38feB
 
-License
+## License
 
 This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 We would like to acknowledge the contributions of the open-source community and the developers of the libraries and tools used in this project.
