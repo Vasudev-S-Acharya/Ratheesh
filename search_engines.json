@@ -1,0 +1,118 @@
+[
+    {
+        "name": "Ask.com",
+        "url": "https://www.ask.com/web?q="
+    },
+    {
+        "name": "Baidu",
+        "url": "https://www.baidu.com/s?wd="
+    },
+    {
+        "name": "Brave Search",
+        "url": "https://search.brave.com/search?q="
+    },
+    {
+        "name": "Dogpile",
+        "url": "https://www.dogpile.com/search?q="
+    },
+    {
+        "name": "DuckDuckGo",
+        "url": "https://duckduckgo.com/?q="
+    },
+    {
+        "name": "Ecosia",
+        "url": "https://www.ecosia.org/search?q="
+    },
+    {
+        "name": "Elasticsearch",
+        "url": "https://www.elasticsearch.com/search?q="
+    },
+    {
+        "name": "Exalead",
+        "url": "https://www.exalead.com/search?q="
+    },
+    {
+        "name": "Excite",
+        "url": "https://www.excite.com/search?q="
+    },
+    {
+        "name": "Gigablast",
+        "url": "https://www.gigablast.com/search?q="
+    },
+    {
+        "name": "Google",
+        "url": "https://www.google.com/search?q="
+    },
+    {
+        "name": "HotBot",
+        "url": "https://www.hotbot.com/search?q="
+    },
+    {
+        "name": "Lycos",
+        "url": "https://search.lycos.com/search?q="
+    },
+    {
+        "name": "MetaCrawler",
+        "url": "https://www.metacrawler.com/search?q="
+    },
+    {
+        "name": "Microsoft Bing",
+        "url": "https://www.bing.com/search?q="
+    },
+    {
+        "name": "Mojeek",
+        "url": "https://www.mojeek.com/search?q="
+    },
+    {
+        "name": "Opensearch",
+        "url": "https://www.opensearch.org/search?q="
+    },
+    {
+        "name": "Petal",
+        "url": "https://www.petal.com/search?q="
+    },
+    {
+        "name": "Qwant",
+        "url": "https://www.qwant.com/?q="
+    },
+    {
+        "name": "Searx",
+        "url": "https://searx.me/?q="
+    },
+    {
+        "name": "Sogou",
+        "url": "https://www.sogou.com/web?query="
+    },
+    {
+        "name": "Startpage",
+        "url": "https://www.startpage.com/do/dsearch?query="
+    },
+    {
+        "name": "Swisscows",
+        "url": "https://swisscows.com/web?query="
+    },
+    {
+        "name": "WebCrawler",
+        "url": "https://www.webcrawler.com/search?q="
+    },
+    {
+        "name": "YaCy",
+        "url": "https://yacy.net/en/?q="
+    },
+    {
+        "name": "Yahoo! Search",
+        "url": "https://search.yahoo.com/search?p="
+    },
+    {
+        "name": "Yandex",
+        "url": "https://www.yandex.com/search/?text="
+    },
+    {
+        "name": "You.com",
+        "url": "https://www.you.com/search?q="
+    },
+    {
+        "name": "Youdao",
+        "url": "https://www.youdao.com/w/eng/"
+    }
+]
